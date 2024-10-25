@@ -1,1 +1,1 @@
-# odin-recipes
+# With this project, I will solidly have my first notions of HTML.
